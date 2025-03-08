@@ -9,6 +9,12 @@ A simple Python tool to encrypt and decrypt files using AES-128 symmetric encryp
 
 
 ## Installation
-1. Install the `cryptography` library:
+1. Install the required libraries:
    ```bash
-   pip install cryptography
+   pip install -r requirements.txt
+   ```
+
+2. Run the python code
+   ```bash
+   python3 encrypter_and_decrypter.py
+   ```
