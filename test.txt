@@ -1,0 +1,1 @@
+This is a test file which we will try to decrypt. If it works as intended, it should generate a "test.txt.encrypted" which should be full of unreadable characters. Then when we load "test.txt.encrypted" into the program and it generates "test.txt.decrypted", the content of the file must match the contents in this file.

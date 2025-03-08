@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+
+# Ignore encrypted/decrypted files
+*.encrypted
+*.decrypted
+*secret.key
