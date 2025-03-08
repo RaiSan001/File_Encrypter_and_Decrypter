@@ -5,7 +5,7 @@ A simple Python tool to encrypt and decrypt files using AES-128 symmetric encryp
 ## Features
 - 🔑 Auto-generate a secure `secret.key` (AES-128).
 - 🔒 Encrypt any file (text, images, etc.) to `.encrypted`.
-- 🔓 Decrypt `.encrypted` files back to their original form.
+- 🔓 Decrypt `.encrypted` files back to their original form using the key.
 
 
 ## Installation
